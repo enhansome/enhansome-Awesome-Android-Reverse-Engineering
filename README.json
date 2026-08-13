@@ -1,0 +1,728 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Training"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MobSF",
+          "description": "Supports both static and dynamic analysis for Android app security testing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T06:20:34Z",
+            "owner": "MobSF",
+            "repo": "Mobile-Security-Framework-MobSF",
+            "stars": 21592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "QARK",
+          "description": "An open-source tool for automatic Android app vulnerability scanning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-16T08:17:35Z",
+            "owner": "linkedin",
+            "repo": "qark",
+            "stars": 3378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Quark Engine",
+          "description": "Integrates various tools as Quark Script APIs for mobile security research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:45:20Z",
+            "owner": "ev-flow",
+            "repo": "quark-engine",
+            "stars": 1710
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroBugs Framework",
+          "description": "Analyzes and scans Android apps for security issues.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-04-24T13:26:23Z",
+            "owner": "AndroBugs",
+            "repo": "AndroBugs_Framework",
+            "stars": 1224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dexcalibur",
+          "description": "Automated tool for analyzing and instrumenting Android applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T19:51:09Z",
+            "owner": "reversenseorg",
+            "repo": "dexcalibur",
+            "stars": 1167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "☆ APK Dependency Graph",
+          "description": "Visualizes APK class dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2021-05-25T20:23:37Z",
+            "owner": "alexzaitsev",
+            "repo": "apk-dependency-graph",
+            "stars": 760
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DIS{integrity}",
+          "description": "Analyzes APKs for root, integrity, and tamper detection.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-13T06:50:41Z",
+            "owner": "user1342",
+            "repo": "DISintegrity",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "COVA",
+          "description": "Computes path constraints based on user-defined APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T04:24:18Z",
+            "owner": "secure-software-engineering",
+            "repo": "COVA",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Static Analysis Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "simplify",
+          "description": "Android virtual machine and deobfuscator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-04-30T12:20:33Z",
+            "owner": "CalebFenton",
+            "repo": "simplify",
+            "stars": 4657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deoptfuscator",
+          "description": "Tool for deobfuscating apps using control-flow obfuscation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-06-16T04:33:40Z",
+            "owner": "Gyoonus",
+            "repo": "deoptfuscator",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "☆ Obfu[DE]scate",
+          "description": "De-obfuscation tool that uses fuzzy comparison logic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-13T06:51:34Z",
+            "owner": "user1342",
+            "repo": "Obfu-DE-Scate",
+            "stars": 198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TinySmaliEmulator",
+          "description": "Minimalist smali emulator for \"decrypting\" obfuscated strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-07-12T17:39:59Z",
+            "owner": "amoulu",
+            "repo": "TinySmaliEmulator",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "De-Obfuscation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Drozer",
+          "description": "Framework for Android security testing with dynamic analysis features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-08T07:54:54Z",
+            "owner": "ReversecLabs",
+            "repo": "drozer",
+            "stars": 4590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoDroid",
+          "description": "Mass APK gathering and analysis tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-14T18:51:59Z",
+            "owner": "user1342",
+            "repo": "AutoDroid",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Networking:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "apk-mitm",
+              "description": "Prepares APKs for HTTPS inspection.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2024-07-24T18:34:52Z",
+                "owner": "niklashigi",
+                "repo": "apk-mitm",
+                "stars": 5079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSLsplit",
+              "description": "Intercepts and manipulates SSL/TLS encrypted traffic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2025-10-27T11:48:33Z",
+                "owner": "droe",
+                "repo": "sslsplit",
+                "stars": 1875
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Dynamic Instrumentation:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "☆ Objection",
+              "description": "Runtime exploration tool to bypass app security controls.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-23T13:40:22Z",
+                "owner": "sensepost",
+                "repo": "objection",
+                "stars": 9313
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RMS Runtime Mobile Security",
+              "description": "Frida web interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-08-03T21:28:34Z",
+                "owner": "m0bilesecurity",
+                "repo": "RMS-Runtime-Mobile-Security",
+                "stars": 3065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jnitrace",
+              "description": "Frida-based JNI API tracer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-07-18T20:38:50Z",
+                "owner": "chame1eon",
+                "repo": "jnitrace",
+                "stars": 1856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "☆ FriDump",
+              "description": "Uses Frida to dump memory of running apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2024-08-07T13:03:21Z",
+                "owner": "Nightbringer21",
+                "repo": "fridump",
+                "stars": 856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "☆ Binder Trace",
+              "description": "Intercepts and parses Android Binder messages.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-09-11T12:30:42Z",
+                "owner": "foundryzero",
+                "repo": "binder-trace",
+                "stars": 766
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Dynamic Analysis Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "☆ JADX",
+          "description": "Decompiles APKs into Java source code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-05T19:19:01Z",
+            "owner": "skylot",
+            "repo": "jadx",
+            "stars": 50045
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FernFlower",
+          "description": "Analytical decompiler for Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T07:34:08Z",
+            "owner": "JetBrains",
+            "repo": "intellij-community",
+            "stars": 20443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DEX2JAR",
+          "description": "Converts DEX files to JAR files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-07-21T06:08:25Z",
+            "owner": "pxb1988",
+            "repo": "dex2jar",
+            "stars": 13133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cfr",
+          "description": "Supports decompilation of Android APK files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-04T04:54:33Z",
+            "owner": "leibnitz27",
+            "repo": "cfr",
+            "stars": 2659
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Procyon",
+          "description": "Suite of Java decompilation tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2022-06-12T17:09:04Z",
+            "owner": "mstrobel",
+            "repo": "procyon",
+            "stars": 1209
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Additional Decompilers:",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Androguard",
+              "description": "Analyzes and reverse engineers Android apps.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-06-05T06:42:12Z",
+                "owner": "androguard",
+                "repo": "androguard",
+                "stars": 6192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "APK Studio",
+              "description": "Qt-based IDE for reverse-engineering APKs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-01-05T04:46:46Z",
+                "owner": "vaibhavpandeyvpz",
+                "repo": "apkstudio",
+                "stars": 4603
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "show-java",
+              "description": "APK, JAR & Dex decompiler.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Kotlin",
+                "last_commit": "2023-01-04T23:00:10Z",
+                "owner": "niranjan94",
+                "repo": "show-java",
+                "stars": 789
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apk2gold",
+              "description": "Decompiles Android apps to Java (note: may be outdated).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Shell",
+                "last_commit": "2024-03-05T05:38:51Z",
+                "owner": "lxdvs",
+                "repo": "apk2gold",
+                "stars": 699
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AndroidProjectCreator",
+              "description": "Converts APKs to Android Studio projects.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2023-09-18T19:20:45Z",
+                "owner": "ThisIsLibra",
+                "repo": "AndroidProjectCreator",
+                "stars": 392
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Decompilers"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "androwarn",
+          "description": "Static code analyzer for malicious Android applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-01-21T20:06:02Z",
+            "owner": "maaaaz",
+            "repo": "androwarn",
+            "stars": 532
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DroidDetective",
+          "description": "Machine learning malware analysis for Android apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-14T18:51:25Z",
+            "owner": "user1342",
+            "repo": "DroidDetective",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cuckoo Droid",
+          "description": "Automated Android malware analysis with Cuckoo Sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-08-07T11:27:29Z",
+            "owner": "idanr1986",
+            "repo": "cuckoodroid-2.0",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "Malware Analysis"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "☆ UnCrackable Mobile Apps",
+          "description": "OWASP Android app CrackMes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T10:23:52Z",
+            "owner": "OWASP",
+            "repo": "mastg",
+            "stars": 13109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KGB Messenger",
+          "description": "CTF challenge for learning Android reverse engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-07-04T23:46:20Z",
+            "owner": "tlamb96",
+            "repo": "kgb_messenger",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyberTruckChallenge19",
+          "description": "Security workshop material from CyberTruck Challenge 2019.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-08-17T13:28:23Z",
+            "owner": "nowsecure",
+            "repo": "cybertruckchallenge19",
+            "stars": 107
+          }
+        }
+      ],
+      "title": "CTFs and CrackMes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "uber-apk-signer",
+          "description": "CLI tool for signing and zip aligning APKs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-10-30T09:18:40Z",
+            "owner": "patrickfav",
+            "repo": "uber-apk-signer",
+            "stars": 2706
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LADB",
+          "description": "Local ADB shell for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-26T22:00:17Z",
+            "owner": "tytydraco",
+            "repo": "LADB",
+            "stars": 2374
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Broken Droid Factory",
+          "description": "Generates pseudo-random vulnerable Android apps for training.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-14T18:52:34Z",
+            "owner": "user1342",
+            "repo": "Broken-Droid-Factory",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RUNIC tamper detection demo",
+          "description": "Demo for understanding Android tamper detection and integrity systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-13T06:38:31Z",
+            "owner": "user1342",
+            "repo": "RUNIC",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Misc"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Binwalk",
+          "description": "Analyze, extract, and reverse engineer firmware images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T15:27:34Z",
+            "owner": "ReFirmLabs",
+            "repo": "binwalk",
+            "stars": 14223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FirmWire",
+          "description": "Dynamic analysis platform for baseband firmware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T00:22:02Z",
+            "owner": "FirmWire",
+            "repo": "FirmWire",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFLSmart",
+          "description": "Fuzzer optimized for firmware image analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-01-18T11:42:24Z",
+            "owner": "aflsmart",
+            "repo": "aflsmart",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Kernel Exploits",
+          "description": "Collection of kernel vulnerabilities and exploit techniques.",
+          "children": []
+        }
+      ],
+      "title": "Firmware & Kernel Analysis"
+    },
+    {
+      "description": "Your contributions are always welcome! Please read the contribution guidelines first. We follow the Contributor Covenant Code of Conduct, so please review and adhere to it when contributing.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "This project is licensed under the MIT License - see the LICENSE.md file for details.",
+      "items": [],
+      "title": "Licence"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T07:54:24.244Z",
+    "original_repository": "user1342/Awesome-Android-Reverse-Engineering",
+    "original_repository_sha": "0ade43d6b46ff19675ca4d8b8f1cc098e1af73b8",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Android-Reverse-Engineering",
+    "enhanced_repository_description": null,
+    "title": "Awesome Android Reverse Engineering with stars"
+  }
+}
