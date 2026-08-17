@@ -24,7 +24,7 @@
             "last_commit": "2026-08-14T20:52:25Z",
             "owner": "MobSF",
             "repo": "Mobile-Security-Framework-MobSF",
-            "stars": 21598
+            "stars": 21600
           }
         },
         {
@@ -80,7 +80,7 @@
             "last_commit": "2026-08-11T19:51:09Z",
             "owner": "reversenseorg",
             "repo": "dexcalibur",
-            "stars": 1167
+            "stars": 1168
           }
         },
         {
@@ -237,7 +237,7 @@
                 "last_commit": "2024-07-24T18:34:52Z",
                 "owner": "niklashigi",
                 "repo": "apk-mitm",
-                "stars": 5081
+                "stars": 5080
               }
             },
             {
@@ -272,7 +272,7 @@
                 "last_commit": "2026-07-23T13:40:22Z",
                 "owner": "sensepost",
                 "repo": "objection",
-                "stars": 9319
+                "stars": 9318
               }
             },
             {
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-03T21:28:34Z",
                 "owner": "m0bilesecurity",
                 "repo": "RMS-Runtime-Mobile-Security",
-                "stars": 3068
+                "stars": 3069
               }
             },
             {
@@ -350,7 +350,7 @@
             "last_commit": "2026-08-05T19:19:01Z",
             "owner": "skylot",
             "repo": "jadx",
-            "stars": 50083
+            "stars": 50089
           }
         },
         {
@@ -361,10 +361,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-16T02:25:21Z",
+            "last_commit": "2026-08-17T04:47:44Z",
             "owner": "JetBrains",
             "repo": "intellij-community",
-            "stars": 20454
+            "stars": 20457
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2024-07-21T06:08:25Z",
             "owner": "pxb1988",
             "repo": "dex2jar",
-            "stars": 13132
+            "stars": 13131
           }
         },
         {
@@ -392,7 +392,7 @@
             "last_commit": "2026-06-04T04:54:33Z",
             "owner": "leibnitz27",
             "repo": "cfr",
-            "stars": 2662
+            "stars": 2664
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2022-06-12T17:09:04Z",
             "owner": "mstrobel",
             "repo": "procyon",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -425,7 +425,7 @@
                 "last_commit": "2026-08-13T17:59:02Z",
                 "owner": "androguard",
                 "repo": "androguard",
-                "stars": 6196
+                "stars": 6195
               }
             },
             {
@@ -439,7 +439,7 @@
                 "last_commit": "2026-01-05T04:46:46Z",
                 "owner": "vaibhavpandeyvpz",
                 "repo": "apkstudio",
-                "stars": 4607
+                "stars": 4608
               }
             },
             {
@@ -556,7 +556,7 @@
             "last_commit": "2026-08-14T05:36:04Z",
             "owner": "OWASP",
             "repo": "mastg",
-            "stars": 13116
+            "stars": 13117
           }
         },
         {
@@ -618,7 +618,7 @@
             "last_commit": "2026-07-26T22:00:17Z",
             "owner": "tytydraco",
             "repo": "LADB",
-            "stars": 2381
+            "stars": 2382
           }
         },
         {
@@ -666,7 +666,7 @@
             "last_commit": "2026-08-11T15:27:34Z",
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14233
+            "stars": 14232
           }
         },
         {
@@ -680,7 +680,7 @@
             "last_commit": "2026-07-11T00:22:02Z",
             "owner": "FirmWire",
             "repo": "FirmWire",
-            "stars": 874
+            "stars": 875
           }
         },
         {
@@ -718,7 +718,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:00:00.631Z",
+    "last_updated": "2026-08-17T07:17:12.892Z",
     "original_repository": "user1342/Awesome-Android-Reverse-Engineering",
     "original_repository_sha": "0ade43d6b46ff19675ca4d8b8f1cc098e1af73b8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Android-Reverse-Engineering",
