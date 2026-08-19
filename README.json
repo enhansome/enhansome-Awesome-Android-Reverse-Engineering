@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-17T21:31:57Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21610
+                    "stars": 21612
                   }
                 },
                 {
@@ -141,7 +141,7 @@
                         "last_commit": "2022-04-30T12:20:33Z",
                         "owner": "CalebFenton",
                         "repo": "simplify",
-                        "stars": 4658
+                        "stars": 4657
                       }
                     },
                     {
@@ -248,7 +248,7 @@
                         "last_commit": "2024-07-24T18:34:52Z",
                         "owner": "niklashigi",
                         "repo": "apk-mitm",
-                        "stars": 5080
+                        "stars": 5081
                       }
                     },
                     {
@@ -285,7 +285,7 @@
                         "last_commit": "2026-07-23T13:40:22Z",
                         "owner": "sensepost",
                         "repo": "objection",
-                        "stars": 9325
+                        "stars": 9327
                       }
                     },
                     {
@@ -300,7 +300,7 @@
                         "last_commit": "2026-08-03T21:28:34Z",
                         "owner": "m0bilesecurity",
                         "repo": "RMS-Runtime-Mobile-Security",
-                        "stars": 3070
+                        "stars": 3071
                       }
                     },
                     {
@@ -369,7 +369,7 @@
                     "last_commit": "2026-08-05T19:19:01Z",
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50120
+                    "stars": 50128
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 2489216,
                     "language": "Java",
-                    "last_commit": "2026-08-19T06:27:05Z",
+                    "last_commit": "2026-08-19T11:59:48Z",
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20465
+                    "stars": 20466
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2026-06-04T04:54:33Z",
                     "owner": "leibnitz27",
                     "repo": "cfr",
-                    "stars": 2666
+                    "stars": 2667
                   }
                 },
                 {
@@ -464,7 +464,7 @@
                         "last_commit": "2026-01-05T04:46:46Z",
                         "owner": "vaibhavpandeyvpz",
                         "repo": "apkstudio",
-                        "stars": 4613
+                        "stars": 4614
                       }
                     },
                     {
@@ -590,7 +590,7 @@
                 "last_commit": "2026-08-14T05:36:04Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13119
+                "stars": 13120
               }
             },
             {
@@ -642,7 +642,7 @@
                 "last_commit": "2023-10-30T09:18:40Z",
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2708
+                "stars": 2706
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14238
+                "stars": 14241
               }
             },
             {
@@ -752,8 +752,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:06:41.143Z",
+    "last_updated": "2026-08-19T12:09:25.579Z",
     "original_repository": "user1342/Awesome-Android-Reverse-Engineering",
+    "original_repository_id": 625494227,
     "original_repository_sha": "0ade43d6b46ff19675ca4d8b8f1cc098e1af73b8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Android-Reverse-Engineering",
     "enhanced_repository_description": null,
