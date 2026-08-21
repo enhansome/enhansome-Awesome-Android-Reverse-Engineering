@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-17T21:31:57Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21618
+                    "stars": 21617
                   }
                 },
                 {
@@ -46,10 +46,10 @@
                     "archived": false,
                     "id": 216696377,
                     "language": "Python",
-                    "last_commit": "2026-08-19T12:31:46Z",
+                    "last_commit": "2026-08-20T11:40:28Z",
                     "owner": "ev-flow",
                     "repo": "quark-engine",
-                    "stars": 1710
+                    "stars": 1711
                   }
                 },
                 {
@@ -79,7 +79,7 @@
                     "last_commit": "2026-08-11T19:51:09Z",
                     "owner": "reversenseorg",
                     "repo": "dexcalibur",
-                    "stars": 1168
+                    "stars": 1167
                   }
                 },
                 {
@@ -213,7 +213,7 @@
                     "last_commit": "2026-04-08T07:54:54Z",
                     "owner": "ReversecLabs",
                     "repo": "drozer",
-                    "stars": 4594
+                    "stars": 4593
                   }
                 },
                 {
@@ -263,7 +263,7 @@
                         "last_commit": "2025-10-27T11:48:33Z",
                         "owner": "droe",
                         "repo": "sslsplit",
-                        "stars": 1875
+                        "stars": 1876
                       }
                     }
                   ]
@@ -285,7 +285,7 @@
                         "last_commit": "2026-07-23T13:40:22Z",
                         "owner": "sensepost",
                         "repo": "objection",
-                        "stars": 9328
+                        "stars": 9333
                       }
                     },
                     {
@@ -330,7 +330,7 @@
                         "last_commit": "2024-08-07T13:03:21Z",
                         "owner": "Nightbringer21",
                         "repo": "fridump",
-                        "stars": 857
+                        "stars": 858
                       }
                     },
                     {
@@ -369,7 +369,7 @@
                     "last_commit": "2026-08-19T18:52:12Z",
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50136
+                    "stars": 50147
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 2489216,
                     "language": "Java",
-                    "last_commit": "2026-08-20T02:31:50Z",
+                    "last_commit": "2026-08-21T05:23:40Z",
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20470
+                    "stars": 20473
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2024-07-21T06:08:25Z",
                     "owner": "pxb1988",
                     "repo": "dex2jar",
-                    "stars": 13132
+                    "stars": 13133
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2026-06-04T04:54:33Z",
                     "owner": "leibnitz27",
                     "repo": "cfr",
-                    "stars": 2668
+                    "stars": 2669
                   }
                 },
                 {
@@ -449,7 +449,7 @@
                         "last_commit": "2026-08-13T17:59:02Z",
                         "owner": "androguard",
                         "repo": "androguard",
-                        "stars": 6198
+                        "stars": 6200
                       }
                     },
                     {
@@ -464,7 +464,7 @@
                         "last_commit": "2026-01-05T04:46:46Z",
                         "owner": "vaibhavpandeyvpz",
                         "repo": "apkstudio",
-                        "stars": 4615
+                        "stars": 4623
                       }
                     },
                     {
@@ -548,7 +548,7 @@
                     "last_commit": "2024-04-14T18:51:25Z",
                     "owner": "user1342",
                     "repo": "DroidDetective",
-                    "stars": 142
+                    "stars": 141
                   }
                 },
                 {
@@ -642,7 +642,7 @@
                 "last_commit": "2023-10-30T09:18:40Z",
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2709
+                "stars": 2711
               }
             },
             {
@@ -657,7 +657,7 @@
                 "last_commit": "2026-07-26T22:00:17Z",
                 "owner": "tytydraco",
                 "repo": "LADB",
-                "stars": 2386
+                "stars": 2390
               }
             },
             {
@@ -709,7 +709,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14243
+                "stars": 14245
               }
             },
             {
@@ -721,7 +721,7 @@
                 "archived": false,
                 "id": 447002181,
                 "language": "Python",
-                "last_commit": "2026-07-11T00:22:02Z",
+                "last_commit": "2026-08-20T11:02:19Z",
                 "owner": "FirmWire",
                 "repo": "FirmWire",
                 "stars": 875
@@ -752,7 +752,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T07:07:11.088Z",
+    "last_updated": "2026-08-21T07:08:36.095Z",
     "original_repository": "user1342/Awesome-Android-Reverse-Engineering",
     "original_repository_id": 625494227,
     "original_repository_sha": "0ade43d6b46ff19675ca4d8b8f1cc098e1af73b8",
