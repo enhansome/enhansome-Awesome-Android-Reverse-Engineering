@@ -369,7 +369,7 @@
                     "last_commit": "2026-08-19T18:52:12Z",
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50196
+                    "stars": 50199
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 2489216,
                     "language": "Java",
-                    "last_commit": "2026-08-25T04:30:18Z",
+                    "last_commit": "2026-08-25T07:05:41Z",
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20483
+                    "stars": 20484
                   }
                 },
                 {
@@ -781,7 +781,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:47.645Z",
+    "last_updated": "2026-08-25T07:09:23.622Z",
     "original_repository": "user1342/Awesome-Android-Reverse-Engineering",
     "original_repository_id": 625494227,
     "original_repository_sha": "0ade43d6b46ff19675ca4d8b8f1cc098e1af73b8",

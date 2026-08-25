@@ -113,8 +113,8 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 ### Decompilers
 
-* [☆ JADX](https://github.com/skylot/jadx) ⭐ 50,196 | 🐛 442 | 🌐 Java | 📅 2026-08-19 - Decompiles APKs into Java source code.
-* [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) ⭐ 20,483 | 🐛 155 | 🌐 Java | 📅 2026-08-25 - Analytical decompiler for Java.
+* [☆ JADX](https://github.com/skylot/jadx) ⭐ 50,199 | 🐛 442 | 🌐 Java | 📅 2026-08-19 - Decompiles APKs into Java source code.
+* [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) ⭐ 20,484 | 🐛 155 | 🌐 Java | 📅 2026-08-25 - Analytical decompiler for Java.
 * [DEX2JAR](https://github.com/pxb1988/dex2jar) ⭐ 13,137 | 🐛 379 | 🌐 Java | 📅 2024-07-21 - Converts DEX files to JAR files.
 * [Cfr](https://github.com/leibnitz27/cfr) ⭐ 2,673 | 🐛 150 | 🌐 Java | 📅 2026-06-04 - Supports decompilation of Android APK files.
 * [Procyon](https://github.com/mstrobel/procyon) ⭐ 1,211 | 🐛 59 | 🌐 Java | 📅 2022-06-12 - Suite of Java decompilation tools.
