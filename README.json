@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 30102273,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T02:15:16Z",
+                    "last_commit": "2026-08-27T04:55:25Z",
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21649
+                    "stars": 21656
                   }
                 },
                 {
@@ -213,7 +213,7 @@
                     "last_commit": "2026-04-08T07:54:54Z",
                     "owner": "ReversecLabs",
                     "repo": "drozer",
-                    "stars": 4596
+                    "stars": 4597
                   }
                 },
                 {
@@ -248,7 +248,7 @@
                         "last_commit": "2024-07-24T18:34:52Z",
                         "owner": "niklashigi",
                         "repo": "apk-mitm",
-                        "stars": 5091
+                        "stars": 5092
                       }
                     },
                     {
@@ -285,7 +285,7 @@
                         "last_commit": "2026-07-23T13:40:22Z",
                         "owner": "sensepost",
                         "repo": "objection",
-                        "stars": 9346
+                        "stars": 9348
                       }
                     },
                     {
@@ -300,7 +300,7 @@
                         "last_commit": "2026-08-03T21:28:34Z",
                         "owner": "m0bilesecurity",
                         "repo": "RMS-Runtime-Mobile-Security",
-                        "stars": 3075
+                        "stars": 3076
                       }
                     },
                     {
@@ -369,7 +369,7 @@
                     "last_commit": "2026-08-19T18:52:12Z",
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50213
+                    "stars": 50230
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 2489216,
                     "language": "Java",
-                    "last_commit": "2026-08-26T05:33:01Z",
+                    "last_commit": "2026-08-27T11:21:36Z",
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20487
+                    "stars": 20489
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2024-07-21T06:08:25Z",
                     "owner": "pxb1988",
                     "repo": "dex2jar",
-                    "stars": 13136
+                    "stars": 13135
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2026-06-04T04:54:33Z",
                     "owner": "leibnitz27",
                     "repo": "cfr",
-                    "stars": 2675
+                    "stars": 2677
                   }
                 },
                 {
@@ -429,7 +429,7 @@
                     "last_commit": "2022-06-12T17:09:04Z",
                     "owner": "mstrobel",
                     "repo": "procyon",
-                    "stars": 1211
+                    "stars": 1212
                   }
                 },
                 {
@@ -449,7 +449,7 @@
                         "last_commit": "2026-08-13T17:59:02Z",
                         "owner": "androguard",
                         "repo": "androguard",
-                        "stars": 6207
+                        "stars": 6209
                       }
                     },
                     {
@@ -464,7 +464,7 @@
                         "last_commit": "2026-01-05T04:46:46Z",
                         "owner": "vaibhavpandeyvpz",
                         "repo": "apkstudio",
-                        "stars": 4630
+                        "stars": 4632
                       }
                     },
                     {
@@ -494,7 +494,7 @@
                         "last_commit": "2024-03-05T05:38:51Z",
                         "owner": "lxdvs",
                         "repo": "apk2gold",
-                        "stars": 699
+                        "stars": 700
                       }
                     },
                     {
@@ -592,7 +592,7 @@
                     "last_commit": "2024-07-22T19:59:35Z",
                     "owner": "apsdehal",
                     "repo": "awesome-ctf",
-                    "stars": 11797
+                    "stars": 11800
                   }
                 }
               ],
@@ -619,7 +619,7 @@
                 "last_commit": "2026-08-14T05:36:04Z",
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13136
+                "stars": 13139
               }
             },
             {
@@ -671,7 +671,7 @@
                 "last_commit": "2023-10-30T09:18:40Z",
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2716
+                "stars": 2721
               }
             },
             {
@@ -686,7 +686,7 @@
                 "last_commit": "2026-07-26T22:00:17Z",
                 "owner": "tytydraco",
                 "repo": "LADB",
-                "stars": 2393
+                "stars": 2395
               }
             },
             {
@@ -738,7 +738,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14270
+                "stars": 14277
               }
             },
             {
@@ -781,9 +781,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:09:43.622Z",
-    "original_repository": "user1342/Awesome-Android-Reverse-Engineering",
-    "original_repository_id": 625494227,
+    "last_updated": "2026-08-27T11:25:20.987Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 625494227,
+      "language": null,
+      "last_commit": "2025-07-08T11:52:39Z",
+      "owner": "user1342",
+      "repo": "Awesome-Android-Reverse-Engineering",
+      "stars": 2680
+    },
     "original_repository_sha": "0ade43d6b46ff19675ca4d8b8f1cc098e1af73b8",
     "enhanced_repository": "enhansome/enhansome-Awesome-Android-Reverse-Engineering",
     "enhanced_repository_description": null,
