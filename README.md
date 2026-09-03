@@ -71,11 +71,11 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 ### Static Analysis Tools
 
-* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,683 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-02 - Supports both static and dynamic analysis for Android app security testing.
-* [QARK](https://github.com/linkedin/qark) ⭐ 3,383 | 🐛 79 | 🌐 Python | 📅 2024-01-16 - An open-source tool for automatic Android app vulnerability scanning.
-* [Quark Engine](https://github.com/quark-engine/quark-engine) ⭐ 1,714 | 🐛 80 | 🌐 Python | 📅 2026-09-01 - Integrates various tools as Quark Script APIs for mobile security research.
+* [MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 21,690 | 🐛 29 | 🌐 JavaScript | 📅 2026-09-02 - Supports both static and dynamic analysis for Android app security testing.
+* [QARK](https://github.com/linkedin/qark) ⭐ 3,384 | 🐛 79 | 🌐 Python | 📅 2024-01-16 - An open-source tool for automatic Android app vulnerability scanning.
+* [Quark Engine](https://github.com/quark-engine/quark-engine) ⭐ 1,713 | 🐛 79 | 🌐 Python | 📅 2026-09-03 - Integrates various tools as Quark Script APIs for mobile security research.
 * [AndroBugs Framework](https://github.com/AndroBugs/AndroBugs_Framework) ⚠️ Archived - Analyzes and scans Android apps for security issues.
-* [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) ⭐ 1,168 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-02 - Automated tool for analyzing and instrumenting Android applications.
+* [Dexcalibur](https://github.com/FrenchYeti/dexcalibur) ⭐ 1,170 | 🐛 37 | 🌐 TypeScript | 📅 2026-09-03 - Automated tool for analyzing and instrumenting Android applications.
 * [☆ APK Dependency Graph](https://github.com/alexzaitsev/apk-dependency-graph) ⭐ 760 | 🐛 7 | 🌐 Java | 📅 2021-05-25 - Visualizes APK class dependencies.
 * [DIS{integrity}](https://github.com/user1342/DISintegrity) ⭐ 81 | 🐛 1 | 🌐 Python | 📅 2024-04-13 - Analyzes APKs for root, integrity, and tamper detection.
 * [COVA](https://github.com/secure-software-engineering/COVA) ⭐ 41 | 🐛 4 | 🌐 Python | 📅 2026-03-02 - Computes path constraints based on user-defined APIs.
@@ -85,26 +85,26 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 #### De-Obfuscation
 
-* [simplify](https://github.com/CalebFenton/simplify) ⭐ 4,660 | 🐛 32 | 🌐 Java | 📅 2022-04-30 - Android virtual machine and deobfuscator.
+* [simplify](https://github.com/CalebFenton/simplify) ⭐ 4,659 | 🐛 32 | 🌐 Java | 📅 2022-04-30 - Android virtual machine and deobfuscator.
 * [deoptfuscator](https://github.com/Gyoonus/deoptfuscator) ⭐ 479 | 🐛 11 | 🌐 C++ | 📅 2022-06-16 - Tool for deobfuscating apps using control-flow obfuscation.
 * [☆ Obfu\[DE\]scate](https://github.com/user1342/Obfu-DE-Scate) ⭐ 198 | 🐛 1 | 🌐 Python | 📅 2024-04-13 - De-obfuscation tool that uses fuzzy comparison logic.
 * [TinySmaliEmulator](https://github.com/amoulu/TinySmaliEmulator) ⭐ 104 | 🐛 0 | 🌐 Python | 📅 2017-07-12 - Minimalist smali emulator for "decrypting" obfuscated strings.
 
 ### Dynamic Analysis Tools
 
-* [Drozer](https://github.com/WithSecureLabs/drozer) ⭐ 4,601 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - Framework for Android security testing with dynamic analysis features.
+* [Drozer](https://github.com/WithSecureLabs/drozer) ⭐ 4,602 | 🐛 9 | 🌐 Python | 📅 2026-04-08 - Framework for Android security testing with dynamic analysis features.
 * [AutoDroid](https://github.com/user1342/AutoDroid) ⭐ 165 | 🐛 0 | 🌐 Python | 📅 2024-04-14 - Mass APK gathering and analysis tool.
 * [jtrace](http://newandroidbook.com/tools/jtrace.html) - Similar to strace, but for Android system calls.
 * [sesearch](https://linux.die.net/man/1/sesearch) - Command line tool for querying SELinux policies.
 * **Networking:**
-  * [apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 5,100 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24 - Prepares APKs for HTTPS inspection.
-  * [SSLsplit](https://github.com/droe/sslsplit) ⭐ 1,876 | 🐛 76 | 🌐 C | 📅 2025-10-27 - Intercepts and manipulates SSL/TLS encrypted traffic.
+  * [apk-mitm](https://github.com/shroudedcode/apk-mitm) ⭐ 5,101 | 🐛 83 | 🌐 TypeScript | 📅 2024-07-24 - Prepares APKs for HTTPS inspection.
+  * [SSLsplit](https://github.com/droe/sslsplit) ⭐ 1,875 | 🐛 76 | 🌐 C | 📅 2025-10-27 - Intercepts and manipulates SSL/TLS encrypted traffic.
   * [☆ Burp Suite](https://portswigger.net/burp) - Commercial tool for analyzing network traffic of Android apps.
   * [Wireshark](https://www.wireshark.org/) - Open-source network protocol analyzer.
   * [MITMProxy](https://mitmproxy.org/) - Man-in-the-middle proxy for analyzing network traffic.
 * **Dynamic Instrumentation:**
-  * [☆ Objection](https://github.com/sensepost/objection) ⭐ 9,359 | 🐛 56 | 🌐 Python | 📅 2026-07-23 - Runtime exploration tool to bypass app security controls.
-  * [RMS Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,077 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-03 - Frida web interface.
+  * [☆ Objection](https://github.com/sensepost/objection) ⭐ 9,358 | 🐛 57 | 🌐 Python | 📅 2026-07-23 - Runtime exploration tool to bypass app security controls.
+  * [RMS Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,078 | 🐛 9 | 🌐 JavaScript | 📅 2026-09-03 - Frida web interface.
   * [jnitrace](https://github.com/chame1eon/jnitrace) ⭐ 1,861 | 🐛 20 | 🌐 TypeScript | 📅 2023-07-18 - Frida-based JNI API tracer.
   * [☆ FriDump](https://github.com/Nightbringer21/fridump) ⭐ 859 | 🐛 27 | 🌐 Python | 📅 2024-08-07 - Uses Frida to dump memory of running apps.
   * [☆ Binder Trace](https://github.com/foundryzero/binder-trace) ⭐ 769 | 🐛 11 | 🌐 Python | 📅 2025-09-11 - Intercepts and parses Android Binder messages.
@@ -113,18 +113,18 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 ### Decompilers
 
-* [☆ JADX](https://github.com/skylot/jadx) ⭐ 50,313 | 🐛 442 | 🌐 Java | 📅 2026-08-31 - Decompiles APKs into Java source code.
-* [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) ⭐ 20,503 | 🐛 157 | 🌐 Java | 📅 2026-09-02 - Analytical decompiler for Java.
-* [DEX2JAR](https://github.com/pxb1988/dex2jar) ⭐ 13,136 | 🐛 379 | 🌐 Java | 📅 2024-07-21 - Converts DEX files to JAR files.
-* [Cfr](https://github.com/leibnitz27/cfr) ⭐ 2,680 | 🐛 150 | 🌐 Java | 📅 2026-06-04 - Supports decompilation of Android APK files.
+* [☆ JADX](https://github.com/skylot/jadx) ⭐ 50,322 | 🐛 443 | 🌐 Java | 📅 2026-09-02 - Decompiles APKs into Java source code.
+* [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine) ⭐ 20,506 | 🐛 157 | 🌐 Java | 📅 2026-09-03 - Analytical decompiler for Java.
+* [DEX2JAR](https://github.com/pxb1988/dex2jar) ⭐ 13,134 | 🐛 379 | 🌐 Java | 📅 2024-07-21 - Converts DEX files to JAR files.
+* [Cfr](https://github.com/leibnitz27/cfr) ⭐ 2,683 | 🐛 150 | 🌐 Java | 📅 2026-06-04 - Supports decompilation of Android APK files.
 * [Procyon](https://github.com/mstrobel/procyon) ⭐ 1,214 | 🐛 59 | 🌐 Java | 📅 2022-06-12 - Suite of Java decompilation tools.
 * [☆ Apktool](https://ibotpeaches.github.io/Apktool/) - Popular tool for decompiling/recompiling APK files.
 * [JDGui](http://java-decompiler.github.io/) - Graphical utility to view Java source from class files.
 * [IDA Pro](https://hex-rays.com/ida-pro/) - Commercial disassembler and debugger.
 * [☆ Ghidra](https://ghidra-sre.org/) - Free and open-source SRE framework.
 * **Additional Decompilers:**
-  * [Androguard](https://github.com/androguard/androguard) ⭐ 6,223 | 🐛 45 | 🌐 Python | 📅 2026-08-13 - Analyzes and reverse engineers Android apps.
-  * [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio) ⭐ 4,638 | 🐛 4 | 🌐 C++ | 📅 2026-01-05 - Qt-based IDE for reverse-engineering APKs.
+  * [Androguard](https://github.com/androguard/androguard) ⭐ 6,224 | 🐛 45 | 🌐 Python | 📅 2026-08-13 - Analyzes and reverse engineers Android apps.
+  * [APK Studio](https://github.com/vaibhavpandeyvpz/apkstudio) ⭐ 4,640 | 🐛 4 | 🌐 C++ | 📅 2026-01-05 - Qt-based IDE for reverse-engineering APKs.
   * [show-java](https://github.com/niranjan94/show-java) ⭐ 789 | 🐛 53 | 🌐 Kotlin | 📅 2023-01-04 - APK, JAR & Dex decompiler.
   * [apk2gold](https://github.com/lxdvs/apk2gold) ⭐ 700 | 🐛 18 | 🌐 Shell | 📅 2024-03-05 - Decompiles Android apps to Java (note: may be outdated).
   * [AndroidProjectCreator](https://github.com/ThisIsLibra/AndroidProjectCreator) ⭐ 393 | 🐛 8 | 🌐 Java | 📅 2023-09-18 - Converts APKs to Android Studio projects.
@@ -142,7 +142,7 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 ### Documentation
 
-* [Android Reverse Engineering Challenges](https://github.com/apsdehal/awesome-ctf#reverse-engineering) ⭐ 11,820 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22 - Curated list of reverse engineering challenges and CTFs.
+* [Android Reverse Engineering Challenges](https://github.com/apsdehal/awesome-ctf#reverse-engineering) ⭐ 11,823 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22 - Curated list of reverse engineering challenges and CTFs.
 * [Android Security Documentation](https://source.android.com/docs/security) - Official Google documentation on Android security.
 * [AndroidXref](http://androidxref.com/) - Open code search for Android source.
 * [APKMirror](https://www.apkmirror.com/) - Repository of APKs from the Play Store and user uploads.
@@ -156,7 +156,7 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 ## CTFs and CrackMes
 
-* [☆ UnCrackable Mobile Apps](https://github.com/OWASP/owasp-mastg/tree/master/Crackmes) ⭐ 13,151 | 🐛 234 | 🌐 Python | 📅 2026-09-01 - OWASP Android app CrackMes.
+* [☆ UnCrackable Mobile Apps](https://github.com/OWASP/owasp-mastg/tree/master/Crackmes) ⭐ 13,153 | 🐛 233 | 🌐 Python | 📅 2026-09-01 - OWASP Android app CrackMes.
 * [KGB Messenger](https://github.com/tlamb96/kgb_messenger) ⭐ 120 | 🐛 0 | 🌐 Java | 📅 2019-07-04 - CTF challenge for learning Android reverse engineering.
 * [CyberTruckChallenge19](https://github.com/nowsecure/cybertruckchallenge19) ⚠️ Archived - Security workshop material from CyberTruck Challenge 2019.
 * [Flare-On Challenge](https://www.fireeye.com/services/flare-on.html) - High-level reverse engineering CTF with Android challenges.
@@ -182,7 +182,7 @@ Awesome-Android-Reverse-Engineering is an amazing list for people who work in ta
 
 ## Firmware & Kernel Analysis
 
-* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,298 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Analyze, extract, and reverse engineer firmware images.
+* [Binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,305 | 🐛 93 | 🌐 Rust | 📅 2026-08-11 - Analyze, extract, and reverse engineer firmware images.
 * [FirmWire](https://github.com/FirmWire/FirmWire) ⭐ 877 | 🐛 17 | 🌐 Python | 📅 2026-08-20 - Dynamic analysis platform for baseband firmware.
 * [AFLSmart](https://github.com/aflsmart/aflsmart) ⭐ 521 | 🐛 7 | 🌐 C | 📅 2022-01-18 - Fuzzer optimized for firmware image analysis.
 * [Android Kernel Exploits](https://github.com/saelo/android_kernel_exploitation) - Collection of kernel vulnerabilities and exploit techniques.
@@ -198,4 +198,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
