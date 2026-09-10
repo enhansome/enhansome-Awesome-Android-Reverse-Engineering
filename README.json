@@ -20,10 +20,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-09T02:16:30Z",
-                    "open_issues": 31,
+                    "open_issues": 32,
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21724,
+                    "stars": 21735,
                     "topics": [
                       "android-security",
                       "api-testing",
@@ -134,7 +134,7 @@
                     "open_issues": 37,
                     "owner": "reversenseorg",
                     "repo": "dexcalibur",
-                    "stars": 1171,
+                    "stars": 1172,
                     "topics": [
                       "analysis",
                       "android",
@@ -458,7 +458,7 @@
                         "open_issues": 83,
                         "owner": "niklashigi",
                         "repo": "apk-mitm",
-                        "stars": 5104,
+                        "stars": 5106,
                         "topics": [
                           "android",
                           "apk",
@@ -488,7 +488,7 @@
                         "open_issues": 76,
                         "owner": "droe",
                         "repo": "sslsplit",
-                        "stars": 1877,
+                        "stars": 1878,
                         "topics": [
                           "c",
                           "http",
@@ -528,7 +528,7 @@
                         "open_issues": 57,
                         "owner": "sensepost",
                         "repo": "objection",
-                        "stars": 9373,
+                        "stars": 9377,
                         "topics": [
                           "android",
                           "framework",
@@ -635,7 +635,7 @@
                         "open_issues": 11,
                         "owner": "foundryzero",
                         "repo": "binder-trace",
-                        "stars": 768,
+                        "stars": 769,
                         "topics": [
                           "android",
                           "binder",
@@ -670,7 +670,7 @@
                     "open_issues": 446,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50390,
+                    "stars": 50398,
                     "topics": [
                       "android",
                       "decompiler",
@@ -692,11 +692,11 @@
                     "id": 2489216,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T11:14:54Z",
-                    "open_issues": 159,
+                    "last_commit": "2026-09-10T11:05:52Z",
+                    "open_issues": 160,
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20531,
+                    "stars": 20536,
                     "topics": [
                       "code-editor",
                       "ide",
@@ -744,7 +744,7 @@
                     "open_issues": 150,
                     "owner": "leibnitz27",
                     "repo": "cfr",
-                    "stars": 2690,
+                    "stars": 2691,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -819,7 +819,7 @@
                         "open_issues": 4,
                         "owner": "vaibhavpandeyvpz",
                         "repo": "apkstudio",
-                        "stars": 4640,
+                        "stars": 4643,
                         "topics": [
                           "android",
                           "android-decompiler",
@@ -947,7 +947,7 @@
                     "open_issues": 0,
                     "owner": "user1342",
                     "repo": "DroidDetective",
-                    "stars": 141,
+                    "stars": 142,
                     "topics": [
                       "androguard",
                       "android",
@@ -1015,7 +1015,7 @@
                     "open_issues": 67,
                     "owner": "apsdehal",
                     "repo": "awesome-ctf",
-                    "stars": 11837,
+                    "stars": 11841,
                     "topics": [
                       "awesome",
                       "ctf",
@@ -1053,7 +1053,7 @@
                 "open_issues": 238,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13166,
+                "stars": 13173,
                 "topics": [
                   "android",
                   "android-application",
@@ -1148,7 +1148,7 @@
                 "open_issues": 11,
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2738,
+                "stars": 2739,
                 "topics": [
                   "android",
                   "android-signing-scheme",
@@ -1180,7 +1180,7 @@
                 "open_issues": 53,
                 "owner": "tytydraco",
                 "repo": "LADB",
-                "stars": 2398,
+                "stars": 2401,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1257,7 +1257,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14324,
+                "stars": 14328,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:25:32.430Z",
+    "last_updated": "2026-09-10T11:21:54.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android Reverse Engineering training, resources, and tools.",
@@ -1334,7 +1334,7 @@
       "open_issues": 8,
       "owner": "user1342",
       "repo": "Awesome-Android-Reverse-Engineering",
-      "stars": 2694,
+      "stars": 2695,
       "topics": [
         "android",
         "application-security",
