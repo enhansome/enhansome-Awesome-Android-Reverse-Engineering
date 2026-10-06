@@ -23,7 +23,7 @@
                     "open_issues": 12,
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21888,
+                    "stars": 21890,
                     "topics": [
                       "android-security",
                       "api-testing",
@@ -458,7 +458,7 @@
                         "open_issues": 83,
                         "owner": "niklashigi",
                         "repo": "apk-mitm",
-                        "stars": 5117,
+                        "stars": 5118,
                         "topics": [
                           "android",
                           "apk",
@@ -528,7 +528,7 @@
                         "open_issues": 58,
                         "owner": "sensepost",
                         "repo": "objection",
-                        "stars": 9426,
+                        "stars": 9427,
                         "topics": [
                           "android",
                           "framework",
@@ -670,7 +670,7 @@
                     "open_issues": 453,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50756,
+                    "stars": 50759,
                     "topics": [
                       "android",
                       "decompiler",
@@ -692,11 +692,11 @@
                     "id": 2489216,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T07:50:26Z",
+                    "last_commit": "2026-10-06T13:11:55Z",
                     "open_issues": 144,
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20612,
+                    "stars": 20610,
                     "topics": [
                       "code-editor",
                       "ide",
@@ -1053,7 +1053,7 @@
                 "open_issues": 241,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13224,
+                "stars": 13226,
                 "topics": [
                   "android",
                   "android-application",
@@ -1278,7 +1278,7 @@
                 "open_issues": 19,
                 "owner": "FirmWire",
                 "repo": "FirmWire",
-                "stars": 888,
+                "stars": 887,
                 "topics": [
                   "baseband",
                   "emulation",
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:29:32.209Z",
+    "last_updated": "2026-10-06T13:20:15.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android Reverse Engineering training, resources, and tools.",
