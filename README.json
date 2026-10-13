@@ -19,11 +19,11 @@
                     "id": 30102273,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-09-30T02:16:06Z",
-                    "open_issues": 14,
+                    "last_commit": "2026-10-13T05:05:02Z",
+                    "open_issues": 13,
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21924,
+                    "stars": 21932,
                     "topics": [
                       "android-security",
                       "api-testing",
@@ -113,7 +113,7 @@
                     "open_issues": 16,
                     "owner": "AndroBugs",
                     "repo": "AndroBugs_Framework",
-                    "stars": 1224,
+                    "stars": 1225,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -528,7 +528,7 @@
                         "open_issues": 58,
                         "owner": "sensepost",
                         "repo": "objection",
-                        "stars": 9441,
+                        "stars": 9437,
                         "topics": [
                           "android",
                           "framework",
@@ -555,10 +555,10 @@
                         "language": "JavaScript",
                         "license": "GPL-3.0",
                         "last_commit": "2026-10-12T11:17:35Z",
-                        "open_issues": 11,
+                        "open_issues": 12,
                         "owner": "m0bilesecurity",
                         "repo": "RMS-Runtime-Mobile-Security",
-                        "stars": 3112,
+                        "stars": 3111,
                         "topics": [
                           "android-security",
                           "frida",
@@ -666,11 +666,11 @@
                     "id": 8859474,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-10T23:29:52Z",
+                    "last_commit": "2026-10-12T23:42:21Z",
                     "open_issues": 454,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 50867,
+                    "stars": 50892,
                     "topics": [
                       "android",
                       "decompiler",
@@ -692,11 +692,11 @@
                     "id": 2489216,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-12T15:23:25Z",
-                    "open_issues": 148,
+                    "last_commit": "2026-10-13T11:39:01Z",
+                    "open_issues": 152,
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20628,
+                    "stars": 20632,
                     "topics": [
                       "code-editor",
                       "ide",
@@ -723,7 +723,7 @@
                     "open_issues": 380,
                     "owner": "pxb1988",
                     "repo": "dex2jar",
-                    "stars": 13144,
+                    "stars": 13143,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -744,7 +744,7 @@
                     "open_issues": 151,
                     "owner": "leibnitz27",
                     "repo": "cfr",
-                    "stars": 2716,
+                    "stars": 2718,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1015,7 +1015,7 @@
                     "open_issues": 70,
                     "owner": "apsdehal",
                     "repo": "awesome-ctf",
-                    "stars": 11912,
+                    "stars": 11916,
                     "topics": [
                       "awesome",
                       "ctf",
@@ -1050,10 +1050,10 @@
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-10-10T02:01:53Z",
-                "open_issues": 242,
+                "open_issues": 243,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13240,
+                "stars": 13243,
                 "topics": [
                   "android",
                   "android-application",
@@ -1127,7 +1127,7 @@
                 "open_issues": 11,
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2772,
+                "stars": 2770,
                 "topics": [
                   "android",
                   "android-signing-scheme",
@@ -1159,7 +1159,7 @@
                 "open_issues": 53,
                 "owner": "tytydraco",
                 "repo": "LADB",
-                "stars": 2432,
+                "stars": 2433,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1233,10 +1233,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
-                "open_issues": 99,
+                "open_issues": 100,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14448,
+                "stars": 14462,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T15:28:37.750Z",
+    "last_updated": "2026-10-13T14:13:54.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android Reverse Engineering training, resources, and tools.",
