@@ -19,11 +19,11 @@
                     "id": 30102273,
                     "language": "JavaScript",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T19:20:16Z",
-                    "open_issues": 16,
+                    "last_commit": "2026-10-18T05:48:12Z",
+                    "open_issues": 21,
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 21973,
+                    "stars": 21981,
                     "topics": [
                       "android-security",
                       "api-testing",
@@ -64,7 +64,7 @@
                     "open_issues": 79,
                     "owner": "linkedin",
                     "repo": "qark",
-                    "stars": 3393,
+                    "stars": 3392,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -85,7 +85,7 @@
                     "open_issues": 79,
                     "owner": "ev-flow",
                     "repo": "quark-engine",
-                    "stars": 1733,
+                    "stars": 1734,
                     "topics": [
                       "android",
                       "blackbox",
@@ -256,7 +256,7 @@
                         "open_issues": 33,
                         "owner": "CalebFenton",
                         "repo": "simplify",
-                        "stars": 4672,
+                        "stars": 4673,
                         "topics": [
                           "android",
                           "android-malware",
@@ -394,7 +394,7 @@
                     "open_issues": 19,
                     "owner": "ReversecLabs",
                     "repo": "drozer",
-                    "stars": 4636,
+                    "stars": 4637,
                     "topics": [
                       "android",
                       "drozer",
@@ -558,7 +558,7 @@
                         "open_issues": 12,
                         "owner": "m0bilesecurity",
                         "repo": "RMS-Runtime-Mobile-Security",
-                        "stars": 3119,
+                        "stars": 3123,
                         "topics": [
                           "android-security",
                           "frida",
@@ -585,7 +585,7 @@
                         "open_issues": 20,
                         "owner": "chame1eon",
                         "repo": "jnitrace",
-                        "stars": 1864,
+                        "stars": 1865,
                         "topics": [
                           "android",
                           "frida",
@@ -670,7 +670,7 @@
                     "open_issues": 457,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 51030,
+                    "stars": 51049,
                     "topics": [
                       "android",
                       "decompiler",
@@ -692,11 +692,11 @@
                     "id": 2489216,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-17T10:27:47Z",
+                    "last_commit": "2026-10-18T09:02:58Z",
                     "open_issues": 154,
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20635,
+                    "stars": 20636,
                     "topics": [
                       "code-editor",
                       "ide",
@@ -744,7 +744,7 @@
                     "open_issues": 150,
                     "owner": "leibnitz27",
                     "repo": "cfr",
-                    "stars": 2722,
+                    "stars": 2724,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -791,7 +791,7 @@
                         "open_issues": 1,
                         "owner": "androguard",
                         "repo": "androguard",
-                        "stars": 6358,
+                        "stars": 6359,
                         "topics": [
                           "android",
                           "dalvik",
@@ -819,7 +819,7 @@
                         "open_issues": 4,
                         "owner": "vaibhavpandeyvpz",
                         "repo": "apkstudio",
-                        "stars": 4685,
+                        "stars": 4687,
                         "topics": [
                           "android",
                           "android-decompiler",
@@ -1015,7 +1015,7 @@
                     "open_issues": 72,
                     "owner": "apsdehal",
                     "repo": "awesome-ctf",
-                    "stars": 11928,
+                    "stars": 11931,
                     "topics": [
                       "awesome",
                       "ctf",
@@ -1053,7 +1053,7 @@
                 "open_issues": 245,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13259,
+                "stars": 13261,
                 "topics": [
                   "android",
                   "android-application",
@@ -1127,7 +1127,7 @@
                 "open_issues": 11,
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2773,
+                "stars": 2775,
                 "topics": [
                   "android",
                   "android-signing-scheme",
@@ -1236,7 +1236,7 @@
                 "open_issues": 100,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14499,
+                "stars": 14503,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T10:46:25.364Z",
+    "last_updated": "2026-10-18T11:08:03.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android Reverse Engineering training, resources, and tools.",
