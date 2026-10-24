@@ -17,13 +17,13 @@
                     "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
                     "homepage": "https://opensecurity.in",
                     "id": 30102273,
-                    "language": "JavaScript",
+                    "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T02:16:22Z",
-                    "open_issues": 28,
+                    "last_commit": "2026-10-24T10:48:58Z",
+                    "open_issues": 10,
                     "owner": "MobSF",
                     "repo": "Mobile-Security-Framework-MobSF",
-                    "stars": 22018,
+                    "stars": 22024,
                     "topics": [
                       "android-security",
                       "api-testing",
@@ -81,11 +81,11 @@
                     "id": 216696377,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-21T14:22:48Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-10-23T16:06:47Z",
+                    "open_issues": 78,
                     "owner": "ev-flow",
                     "repo": "quark-engine",
-                    "stars": 1735,
+                    "stars": 1733,
                     "topics": [
                       "android",
                       "blackbox",
@@ -134,7 +134,7 @@
                     "open_issues": 73,
                     "owner": "reversenseorg",
                     "repo": "dexcalibur",
-                    "stars": 1181,
+                    "stars": 1182,
                     "topics": [
                       "analysis",
                       "android",
@@ -233,7 +233,7 @@
                     "open_issues": 4,
                     "owner": "secure-software-engineering",
                     "repo": "COVA",
-                    "stars": 41,
+                    "stars": 42,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -256,7 +256,7 @@
                         "open_issues": 33,
                         "owner": "CalebFenton",
                         "repo": "simplify",
-                        "stars": 4674,
+                        "stars": 4675,
                         "topics": [
                           "android",
                           "android-malware",
@@ -293,7 +293,7 @@
                         "open_issues": 11,
                         "owner": "Gyoonus",
                         "repo": "deoptfuscator",
-                        "stars": 481,
+                        "stars": 482,
                         "topics": [
                           "android-dex",
                           "deguard",
@@ -558,7 +558,7 @@
                         "open_issues": 12,
                         "owner": "m0bilesecurity",
                         "repo": "RMS-Runtime-Mobile-Security",
-                        "stars": 3130,
+                        "stars": 3132,
                         "topics": [
                           "android-security",
                           "frida",
@@ -666,11 +666,11 @@
                     "id": 8859474,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-14T22:10:04Z",
-                    "open_issues": 462,
+                    "last_commit": "2026-10-23T22:01:30Z",
+                    "open_issues": 461,
                     "owner": "skylot",
                     "repo": "jadx",
-                    "stars": 51207,
+                    "stars": 51229,
                     "topics": [
                       "android",
                       "decompiler",
@@ -692,11 +692,11 @@
                     "id": 2489216,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-23T11:23:48Z",
-                    "open_issues": 156,
+                    "last_commit": "2026-10-24T10:58:44Z",
+                    "open_issues": 157,
                     "owner": "JetBrains",
                     "repo": "intellij-community",
-                    "stars": 20655,
+                    "stars": 20658,
                     "topics": [
                       "code-editor",
                       "ide",
@@ -765,7 +765,7 @@
                     "open_issues": 59,
                     "owner": "mstrobel",
                     "repo": "procyon",
-                    "stars": 1224,
+                    "stars": 1225,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T18:44:06.316Z"
@@ -819,7 +819,7 @@
                         "open_issues": 4,
                         "owner": "vaibhavpandeyvpz",
                         "repo": "apkstudio",
-                        "stars": 4698,
+                        "stars": 4699,
                         "topics": [
                           "android",
                           "android-decompiler",
@@ -1049,11 +1049,11 @@
                 "id": 69648386,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-10-23T11:29:35Z",
-                "open_issues": 248,
+                "last_commit": "2026-10-24T08:59:21Z",
+                "open_issues": 247,
                 "owner": "OWASP",
                 "repo": "mastg",
-                "stars": 13279,
+                "stars": 13281,
                 "topics": [
                   "android",
                   "android-application",
@@ -1127,7 +1127,7 @@
                 "open_issues": 11,
                 "owner": "patrickfav",
                 "repo": "uber-apk-signer",
-                "stars": 2787,
+                "stars": 2789,
                 "topics": [
                   "android",
                   "android-signing-scheme",
@@ -1236,7 +1236,7 @@
                 "open_issues": 102,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14541,
+                "stars": 14543,
                 "topics": []
               },
               "first_seen": "2026-08-28T18:44:06.316Z"
@@ -1301,7 +1301,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T11:41:30.655Z",
+    "last_updated": "2026-10-24T11:03:48.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Android Reverse Engineering training, resources, and tools.",
